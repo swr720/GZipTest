@@ -31,8 +31,6 @@ namespace GZipTest
             {
                 Console.WriteLine(ex.Message);
             }
-
-            Console.ReadLine();
         }
     }
 }
