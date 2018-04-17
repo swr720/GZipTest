@@ -1,0 +1,6 @@
+D:\GitRepos\GZipTest\GZipTest\bin\Debug\GZipTest.exe
+D:\GitRepos\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
+D:\GitRepos\GZipTest\GZipTest\obj\Debug\GZipTest.csprojResolveAssemblyReference.cache
+D:\GitRepos\GZipTest\GZipTest\obj\Debug\GZipTest.csproj.CoreCompileInputs.cache
+D:\GitRepos\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+D:\GitRepos\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
